@@ -10,4 +10,4 @@ Estes dados são oriundos da minha tese de doutorado e estão separados nos trê
 
 
 # Citação
-H. Ferreira, Ciência de Dados de Materiais Aplicada à Descoberta de Semicondutores. Pós-graduação em Nanociência e Materiais Avançados, Universidade Federal do ABC, 2025. DOI:10.13140/RG.2.2.21610.99521
+H. Ferreira, Ciência de Dados de Materiais Aplicada à Descoberta de Semicondutores. Pós-graduação em Nanociência e Materiais Avançados, Universidade Federal do ABC, 2025. DOI: https://doi.org/10.13140/RG.2.2.21610.99521
